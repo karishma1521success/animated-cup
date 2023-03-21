@@ -1,0 +1,32 @@
+@media screen and (max-width:576px) {
+    .cup{
+        width: 134px;
+        height: 122px;
+    }
+    .plate{
+        width: 138%;
+        left: -25px;
+    }
+    .circle{
+        top: -11px;
+    }
+    .filled{
+        top: 7px;
+    }
+    .vapors span{
+        margin: 0px 2px;
+        left: 0px;
+        padding: 12px 1px;
+    }
+    .handle{
+        right: -31px;
+        width: 160%;
+        height: 101%;
+        top: -13px;
+    }
+    .quote{
+        font-size: 25px;
+        width: 50px;
+    }
+}
+
