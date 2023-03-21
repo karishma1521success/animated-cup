@@ -146,7 +146,7 @@ body{
         opacity: 0;
     }
     50%{
-        transform: translateY(-150px) scaleX(5);
+        transform: translateY(-150px) scaleX(3);
         /* opacity: 1; */
         opacity: 1;
     }
@@ -154,7 +154,7 @@ body{
         opacity: 0;
     }
     100%{
-        transform: translateY(-300px) scaleX(10);
+        transform: translateY(-300px) scaleX(6);
         /* opacity: 1; */
         opacity: 1;
     }
