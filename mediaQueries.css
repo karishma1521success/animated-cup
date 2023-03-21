@@ -1,7 +1,6 @@
 @media screen and (max-width:576px) {
     body{
-        background-repeat: no-repeat;
-        background-position: center;
+        background-repeat: repeat;
         background-size: contain;
     }
     .cup{
@@ -29,6 +28,10 @@
         width: 160%;
         height: 101%;
         top: -13px;
+        border: 15px solid rgb(223 216 216);
+        border-left: 10px solid transparent;
+        border-top: 10px solid transparent;
+        border-bottom: 10px solid transparent;
     }
     .quote{
         font-size: 25px;
