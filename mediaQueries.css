@@ -1,4 +1,9 @@
 @media screen and (max-width:576px) {
+    body{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
     .cup{
         width: 134px;
         height: 122px;

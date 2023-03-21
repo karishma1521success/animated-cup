@@ -12,7 +12,7 @@ body{
     /* background-color: black; */
     background: url("https://images.unsplash.com/photo-1528697203043-733dafdaa316?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fGNvZmZlZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     font-family: 'Tangerine', serif;
     min-height: 99vh;
     overflow: hidden;
