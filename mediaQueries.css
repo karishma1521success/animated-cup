@@ -7,6 +7,7 @@
     .cup{
         width: 134px;
         height: 122px;
+        box-shadow: 48px 14px 32px 40px rgba(235, 231, 231, 0.489) inset;
     }
     .plate{
         width: 138%;
